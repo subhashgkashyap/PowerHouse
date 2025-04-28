@@ -1,0 +1,81 @@
+body {
+    font-family: 'Poppins', sans-serif;
+}
+
+.navbar .word1 {
+    color: #535353;
+}
+
+.navbar .word2 {
+    color: #EFA00B;
+}
+
+.hero-section {
+    background: linear-gradient(100deg, #6366F1 0%, #A855F7 100%);
+    /* background: linear-gradient(rgba(0,0,0,0.5), rgba(0,0,0,0.5)), url('/images/stock-image-1.jpg') center/cover no-repeat; */
+    padding: 10% 0;
+    min-height: 100vh;
+}
+
+#about {
+    padding: 10% 0;
+    min-height: 100vh;
+}
+
+#programs {
+    padding: 10% 0;
+    min-height: 100vh;
+}
+
+#gallery {
+    padding: 10% 0;
+    min-height: 100vh;
+}
+
+#membership {
+    padding: 10% 0;
+    min-height: 100vh;
+}
+
+#testimonials {
+    padding: 10% 0;
+    min-height: 100vh;
+}
+
+#contact {
+    padding: 10% 0;
+    min-height: 100vh;
+}
+
+.row {
+    padding: 5%;
+}
+
+#programs .card {
+    height: auto;
+    width: 18rem;
+    border: none;
+    transition: transform 0.3s ease;
+}
+
+#programs .card:hover {
+    transform: translateY(-5px);
+    cursor: pointer;
+}
+
+#gallery .card {
+    height: 100%;
+    width: 80%;
+}
+
+#membership .card {
+    height: auto;
+    width: 18rem;
+    border: none;
+    transition: transform 0.3s ease;
+}
+
+#membership .card:hover {
+    transform: translateY(-5px);
+    cursor: pointer;
+}
