@@ -4,7 +4,7 @@ Welcome to the PowerHouse Gym Landing Page!
 Built with Bootstrap 5, custom CSS, and modern design practices to showcase the strength and spirit of PowerHouse.
 
 ## 📋 Features
-- Hero section with call-to-action
+- Hero section
 - About PowerHouse
 - Programs offered
 - Gallery of gym facilities
